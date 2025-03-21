@@ -41,7 +41,7 @@ public class DbConnection
         }
         try 
         {
-           //con=DriverManager.getConnection("jdbc:mysql://localhost:3306/jobportal","root","860240");
+           //con=DriverManager.getConnection("jdbc:mysql://localhost:3306/jobportal","#####","#####");
          
             MysqlDataSource ds=new MysqlDataSource();
             
